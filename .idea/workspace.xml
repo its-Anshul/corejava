@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79d19575-9d7b-48bf-b8c6-19928c9778e3" name="Default Changelist" comment="" />
+    <list default="true" id="79d19575-9d7b-48bf-b8c6-19928c9778e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsonentVowel.class" beforeDir="false" afterPath="$PROJECT_DIR$/ConsonentVowel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsonentVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConsonentVowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/GuessNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumRepeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/NumRepeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecognizeChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/RecognizeChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecognizeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecognizeChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RepeatChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/RepeatChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RepeatChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/RepeatChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumofUnspecified.class" beforeDir="false" afterPath="$PROJECT_DIR$/SumofUnspecified.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumofUnspecified.java" beforeDir="false" afterPath="$PROJECT_DIR$/SumofUnspecified.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomandJerry.class" beforeDir="false" afterPath="$PROJECT_DIR$/TomandJerry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,34 +36,35 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="63" />
+          <entry key="java" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="63" />
+          <entry key="JAVA" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="3533" />
+          <entry key="java" value="3539" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="3533" />
+          <entry key="JAVA" value="3539" />
         </counts>
       </usages-collector>
     </session>
@@ -52,32 +73,49 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TomandJerry.java">
+        <entry file="file://$PROJECT_DIR$/NumRepeat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="72" lean-forward="true" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsonentVowel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GuessNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,7 +131,6 @@
         <option value="$PROJECT_DIR$/Sortnumber.java" />
         <option value="$PROJECT_DIR$/Sumofunspecified.java" />
         <option value="$PROJECT_DIR$/Tomandjerry.java" />
-        <option value="$PROJECT_DIR$/hello.java" />
         <option value="$PROJECT_DIR$/RecognizeChar.java" />
         <option value="$PROJECT_DIR$/ConsonentVowel.java" />
         <option value="$PROJECT_DIR$/NumRepeat.java" />
@@ -103,6 +140,7 @@
         <option value="$PROJECT_DIR$/SumofUnspecified.java" />
         <option value="$PROJECT_DIR$/TomandJerry.java" />
         <option value="$PROJECT_DIR$/GuessNumber.java" />
+        <option value="$PROJECT_DIR$/hello.java" />
       </list>
     </option>
   </component>
@@ -112,14 +150,15 @@
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536317947833" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536562301888" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,9 +202,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26177174" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -179,8 +217,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.30731708" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49960095" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50039905" side_tool="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -201,13 +239,6 @@
     <entry file="file://$PROJECT_DIR$/Consonentvowel.java" />
     <entry file="file://$PROJECT_DIR$/Guessnumber.java" />
     <entry file="file://$PROJECT_DIR$/Numrepeat.java" />
-    <entry file="file://$PROJECT_DIR$/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Recognizechar.java" />
     <entry file="file://$PROJECT_DIR$/Reversestring.java" />
     <entry file="file://$PROJECT_DIR$/Repeatchar.java" />
@@ -221,20 +252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsonentVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NumRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -273,24 +290,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TomandJerry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="72" lean-forward="true" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsonentVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GuessNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>

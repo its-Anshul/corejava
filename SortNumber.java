@@ -10,9 +10,9 @@ class SortNumber {
 
             int arr[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 
-            /*      Here we are declaring a array which stores number of occurence of the index
+            /*      Here we are declaring a array which stores number of occurrence of the index
              *       Ex: if arr[2] = 4
-             *       then digit 2 has occured 4 times in the numbmber inputed
+             *       then digit 2 has occurred 4 times in the number inputed
              *       then printing it from back for sorting
              *
              * */

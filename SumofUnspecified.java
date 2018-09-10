@@ -3,14 +3,14 @@ import java.util.Scanner;
 class SumofUnspecified {
     public static void Sumofunspecified() {
 
-            String a;
+            String str;
             Scanner s = new Scanner(System.in);
             System.out.print("Enter a String:");
-            a = s.nextLine();
+            str = s.nextLine();
 
-            int len = a.length();
+            int len = str.length();
             int sum = 0;
-            String[] arrOfStr = a.split(" ");
+            String[] arrOfStr = str.split(" ");
             try {
                 for (String b : arrOfStr) {
                     int result = Integer.parseInt(b);

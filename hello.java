@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Assignment {
     public static void main(String[] args) {
         Palindrome a = new Palindrome();
-        a.Palindrome();
+        a.palindrome(1111111111);
 
         TomandJerry b = new TomandJerry();
         b.Tomandjerry();
@@ -30,7 +30,7 @@ class Assignment {
         i.Reversestring();
 
         RepeatChar j = new RepeatChar();
-        j.Repeatchar();
+        j.Repeatchar("anshul1",1);
         
     }
 

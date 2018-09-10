@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="groovy:groovy:1.1-rc-1" type="repository">
+    <properties maven-id="groovy:groovy:1.1-rc-1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/groovy/groovy/1.1-rc-1/groovy-1.1-rc-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/antlr/antlr/2.7.6/antlr-2.7.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/2.2/asm-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.0/commons-cli-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0/commons-logging-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.7.0/ant-1.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ant/ant-launcher/1.7.0/ant-launcher-1.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-util/2.2/asm-util-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-analysis/2.2/asm-analysis-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/asm/asm-tree/2.2/asm-tree-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jline/jline/0.9.91/jline-0.9.91.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

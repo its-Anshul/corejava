@@ -1,15 +1,16 @@
 import java.util.Scanner;
 
 class Palindrome {
-    public static void Palindrome() {
+    public String palindrome(long n) {
 
-            long n;
+            String answer="";
+            //long n;
             long m;
             long a = 0;
             long x;
-            Scanner s = new Scanner(System.in);
+            /*Scanner s = new Scanner(System.in);
             System.out.print("Enter any number:");
-            n = s.nextLong();
+            n = s.nextLong();*/
             m = n;
             while (n > 0) {
                 x = n % 10;
@@ -17,7 +18,7 @@ class Palindrome {
                 n = n / 10;
             }
             if (a == m) {
-                System.out.print(m + " is Palindrome");
+                answer= m + " is Palindrome";
                 a = 0;
                 while (m > 0) {
                     x = m % 10;
@@ -27,13 +28,16 @@ class Palindrome {
                     m = m / 10;
                 }
                 if (a > 25) {
-                    System.out.print(" and the sum of even numbers is greater than 25");
+                    answer=answer + " and the sum of even numbers is greater than 25";
                 } else {
-                    System.out.print(" and the sum of even numbers is less than 25");
+                    answer=answer + " and the sum of even numbers is less than 25";
                 }
             } else {
-                System.out.println(m + " is Not Palindrome");
+                answer=answer + " is Not Palindrome";
             }
 
+            return answer;
+
         }
-}
+
+    }

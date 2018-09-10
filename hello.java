@@ -27,7 +27,7 @@ class Assignment {
         h.Guessnumber();
 
         ReverseString i = new ReverseString();
-        i.Reversestring();
+        i.Reversestring("adw");
 
         RepeatChar j = new RepeatChar();
         j.Repeatchar("anshul1",1);

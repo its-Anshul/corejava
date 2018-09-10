@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79d19575-9d7b-48bf-b8c6-19928c9778e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/groovy_groovy_1_1_rc_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatCharTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumofUnspecifiedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsonentVowel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuessNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumRepeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecognizeChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepeatChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepeatChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/RepeatChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumofUnspecified.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomandJerry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SumofUnspecified.java" beforeDir="false" afterPath="$PROJECT_DIR$/SumofUnspecified.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld/RepeatCharTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/RepeatCharTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepeatCharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatCharTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,19 +36,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="3" />
+          <entry key="class" value="5" />
           <entry key="groovy" value="4" />
-          <entry key="java" value="74" />
+          <entry key="java" value="80" />
           <entry key="project" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
+          <entry key="CLASS" value="5" />
           <entry key="Eclipse" value="1" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="80" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -73,14 +56,14 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="groovy" value="3" />
-          <entry key="java" value="4570" />
+          <entry key="java" value="4946" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="4570" />
+          <entry key="JAVA" value="4946" />
         </counts>
       </usages-collector>
     </session>
@@ -90,35 +73,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="156">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RepeatChar.java">
+        <entry file="file://$PROJECT_DIR$/src/RepeatCharTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SumofUnspecified.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RepeatCharTest.java">
+        <entry file="file://$PROJECT_DIR$/src/SumofUnspecifiedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PalindromeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="284">
+              <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -148,20 +131,21 @@
         <option value="$PROJECT_DIR$/Sortnumber.java" />
         <option value="$PROJECT_DIR$/Sumofunspecified.java" />
         <option value="$PROJECT_DIR$/Tomandjerry.java" />
-        <option value="$PROJECT_DIR$/RecognizeChar.java" />
         <option value="$PROJECT_DIR$/ConsonentVowel.java" />
         <option value="$PROJECT_DIR$/NumRepeat.java" />
         <option value="$PROJECT_DIR$/ReverseString.java" />
         <option value="$PROJECT_DIR$/SortNumber.java" />
-        <option value="$PROJECT_DIR$/SumofUnspecified.java" />
         <option value="$PROJECT_DIR$/TomandJerry.java" />
         <option value="$PROJECT_DIR$/GuessNumber.java" />
         <option value="$PROJECT_DIR$/src/PalindromeTest.groovy" />
         <option value="$PROJECT_DIR$/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/PalindromeTest.java" />
-        <option value="$PROJECT_DIR$/hello.java" />
-        <option value="$PROJECT_DIR$/src/RepeatCharTest.java" />
         <option value="$PROJECT_DIR$/RepeatChar.java" />
+        <option value="$PROJECT_DIR$/RecognizeChar.java" />
+        <option value="$PROJECT_DIR$/src/RepeatCharTest.java" />
+        <option value="$PROJECT_DIR$/hello.java" />
+        <option value="$PROJECT_DIR$/SumofUnspecified.java" />
+        <option value="$PROJECT_DIR$/src/SumofUnspecifiedTest.java" />
       </list>
     </option>
   </component>
@@ -202,7 +186,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536576158535" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536580002128" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -234,69 +218,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RepeatCharTest">
-    <configuration name="RepeatCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SumofUnspecifiedTest.testofLotofNumbers">
+    <configuration name="SumofUnspecifiedTest.testofFloat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="helloworld" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatCharTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepeatCharTest.testForLongString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="helloworld" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatCharTest" />
-      <option name="METHOD_NAME" value="testForLongString" />
+      <option name="MAIN_CLASS_NAME" value="SumofUnspecifiedTest" />
+      <option name="METHOD_NAME" value="testofFloat" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatCharTest.testForShortLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumofUnspecifiedTest.testofLotofNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="helloworld" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatCharTest" />
-      <option name="METHOD_NAME" value="testForShortLength" />
+      <option name="MAIN_CLASS_NAME" value="SumofUnspecifiedTest" />
+      <option name="METHOD_NAME" value="testofLotofNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatCharTest.testForSpecialCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumofUnspecifiedTest.testofNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="helloworld" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatCharTest" />
-      <option name="METHOD_NAME" value="testForSpecialCharacter" />
+      <option name="MAIN_CLASS_NAME" value="SumofUnspecifiedTest" />
+      <option name="METHOD_NAME" value="testofNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatCharTest.testForZeroLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumofUnspecifiedTest.testofNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="helloworld" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatCharTest" />
-      <option name="METHOD_NAME" value="testForZeroLength" />
+      <option name="MAIN_CLASS_NAME" value="SumofUnspecifiedTest" />
+      <option name="METHOD_NAME" value="testofNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumofUnspecifiedTest.testofSingleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SumofUnspecifiedTest" />
+      <option name="METHOD_NAME" value="testofSingleNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RepeatCharTest.testForSpecialCharacter" />
-      <item itemvalue="JUnit.RepeatCharTest.testForLongString" />
-      <item itemvalue="JUnit.RepeatCharTest.testForZeroLength" />
-      <item itemvalue="JUnit.RepeatCharTest.testForShortLength" />
-      <item itemvalue="JUnit.RepeatCharTest" />
+      <item itemvalue="JUnit.SumofUnspecifiedTest.testofSingleNumber" />
+      <item itemvalue="JUnit.SumofUnspecifiedTest.testofNegative" />
+      <item itemvalue="JUnit.SumofUnspecifiedTest.testofFloat" />
+      <item itemvalue="JUnit.SumofUnspecifiedTest.testofNull" />
+      <item itemvalue="JUnit.SumofUnspecifiedTest.testofLotofNumbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RepeatCharTest" />
-        <item itemvalue="JUnit.RepeatCharTest.testForShortLength" />
-        <item itemvalue="JUnit.RepeatCharTest.testForZeroLength" />
-        <item itemvalue="JUnit.RepeatCharTest.testForLongString" />
-        <item itemvalue="JUnit.RepeatCharTest.testForSpecialCharacter" />
+        <item itemvalue="JUnit.SumofUnspecifiedTest.testofLotofNumbers" />
+        <item itemvalue="JUnit.SumofUnspecifiedTest.testofNull" />
+        <item itemvalue="JUnit.SumofUnspecifiedTest.testofFloat" />
+        <item itemvalue="JUnit.SumofUnspecifiedTest.testofNegative" />
+        <item itemvalue="JUnit.SumofUnspecifiedTest.testofSingleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -314,42 +300,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RepeatCharTest_Repeatchar - 2018.09.10 at 15h 57m 52s.xml">
-      <configuration name="RepeatCharTest.Repeatchar" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest - 2018.09.10 at 17h 09m 03s.xml">
+      <configuration name="SumofUnspecifiedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_Repeatchar - 2018.09.10 at 15h 58m 44s.xml">
-      <configuration name="RepeatCharTest.Repeatchar" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofAlphabet - 2018.09.10 at 17h 10m 35s.xml">
+      <configuration name="SumofUnspecifiedTest.testofAlphabet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_Repeatchar - 2018.09.10 at 15h 59m 01s.xml">
-      <configuration name="RepeatCharTest.Repeatchar" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofAlphabet - 2018.09.10 at 17h 11m 18s.xml">
+      <configuration name="SumofUnspecifiedTest.testofAlphabet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_Repeatchar - 2018.09.10 at 15h 59m 30s.xml">
-      <configuration name="RepeatCharTest.Repeatchar" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofAlphabet - 2018.09.10 at 17h 12m 12s.xml">
+      <configuration name="SumofUnspecifiedTest.testofAlphabet" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_testForSpecialCharacter - 2018.09.10 at 16h 02m 22s.xml">
-      <configuration name="RepeatCharTest.testForSpecialCharacter" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofLongString - 2018.09.10 at 17h 13m 25s.xml">
+      <configuration name="SumofUnspecifiedTest.testofLongString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_testForLongString - 2018.09.10 at 16h 05m 18s.xml">
-      <configuration name="RepeatCharTest.testForLongString" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofSingleNumber - 2018.09.10 at 17h 14m 11s.xml">
+      <configuration name="SumofUnspecifiedTest.testofSingleNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_testForZeroLength - 2018.09.10 at 16h 05m 48s.xml">
-      <configuration name="RepeatCharTest.testForZeroLength" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofNegative - 2018.09.10 at 17h 14m 50s.xml">
+      <configuration name="SumofUnspecifiedTest.testofNegative" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_testForShortLength - 2018.09.10 at 16h 06m 27s.xml">
-      <configuration name="RepeatCharTest.testForShortLength" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofFloat - 2018.09.10 at 17h 15m 20s.xml">
+      <configuration name="SumofUnspecifiedTest.testofFloat" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest_testForShortLength - 2018.09.10 at 16h 09m 58s.xml">
-      <configuration name="RepeatCharTest.testForShortLength" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofFloat - 2018.09.10 at 17h 15m 34s.xml">
+      <configuration name="SumofUnspecifiedTest.testofFloat" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharTest - 2018.09.10 at 16h 12m 39s.xml">
-      <configuration name="RepeatCharTest" configurationId="JUnit" />
+    <history-entry file="SumofUnspecifiedTest_testofNull - 2018.09.10 at 17h 16m 04s.xml">
+      <configuration name="SumofUnspecifiedTest.testofNull" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27613726" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,13 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecognizeChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -419,13 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SumofUnspecified.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -477,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RepeatChar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -491,24 +456,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello.java">
+    <entry file="file://$PROJECT_DIR$/RecognizeChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumofUnspecified.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/RepeatChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepeatChar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RepeatCharTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumofUnspecified.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumofUnspecifiedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
         </state>
       </provider>
     </entry>

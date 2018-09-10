@@ -7,11 +7,11 @@ import static org.junit.Assert.*;
 
 public class RepeatCharTest {
 
-    RepeatChar p = new RepeatChar();
+    RepeatChar p;
 
     @Before
     public void setUp() throws Exception {
-
+        p = new RepeatChar();
     }
 
     @After

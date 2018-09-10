@@ -15,7 +15,7 @@ class Assignment {
         d.Numrepeat();
 
         SumofUnspecified e = new SumofUnspecified();
-        e.Sumofunspecified();
+        e.Sumofunspecified( "hELLO wORDL" );
 
         RecognizeChar f = new RecognizeChar();
         f.Recognizechar();

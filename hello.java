@@ -6,22 +6,22 @@ class Assignment {
         a.palindrome(1111111111);
 
         TomandJerry b = new TomandJerry();
-        b.Tomandjerry();
+        b.Tomandjerry(4);
 
         ConsonentVowel c = new  ConsonentVowel();
-        c.Consonentvowel();
+        c.consonantvowel( " ");
 
         NumRepeat d = new NumRepeat();
-        d.Numrepeat();
+        d.Numrepeat(1);
 
         SumofUnspecified e = new SumofUnspecified();
         e.Sumofunspecified( "hELLO wORDL" );
 
         RecognizeChar f = new RecognizeChar();
-        f.Recognizechar();
+        f.Recognizechar('a');
 
         SortNumber g = new SortNumber();
-        g.Sortnumber();
+        g.Sortnumber(1);
 
         GuessNumber h = new GuessNumber();
         h.Guessnumber();

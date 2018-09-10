@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-class SortNumber {
-    public static void Sortnumber() {
+class SortNumber<answer> {
+    public static String Sortnumber(long a) {
 
-            int a;
+            /*int a;
             Scanner s = new Scanner(System.in);
             System.out.print("Enter a number:");
             a = s.nextInt();
-
+*/
             int arr[] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 
             /*      Here we are declaring a array which stores number of occurrence of the index
@@ -18,27 +18,32 @@ class SortNumber {
              * */
 
             while (a != 0) {
-                int b = a % 10;
+                int b = (int)a % 10;
                 a = a / 10;
                 arr[b]++;
             }
+            String answer=" ";
 
             System.out.println("Sorted number in non-increasing order : ");
             for (int i = 9; i >= 0; i--) {
                 for (int j = 0; j < arr[i]; j++) {
-                    System.out.print(i);
+                    answer = answer + " " ;
                 }
             }
             int sum = 0;
-            System.out.println("Sum of even numbers :");
+            //System.out.println("Sum of even numbers :");
             for (int i = 2; i < 9; i = i + 2) {
                 sum = sum + i * arr[i];
             }
-            System.out.print(sum);
+            answer = answer + " " + sum;
+            //System.out.print(sum);
             if (sum > 15)
-                System.out.println("True");
+                answer = answer + " True";
+        //System.out.println("True");
             else
-                System.out.println("False");
-
+                answer = answer + " False";
+        //System.out.println("False");
+        return answer;
     }
+
 }
